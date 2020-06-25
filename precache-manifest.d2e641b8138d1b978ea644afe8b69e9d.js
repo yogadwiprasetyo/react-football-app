@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54869b53e3fda200de7fae1e23f8215c",
+    "revision": "c346476268ce06a76382aecfebeb7d4a",
     "url": "/react-footbal-app/index.html"
   },
   {
-    "revision": "b845f9b25c9650abaab1",
+    "revision": "2970e2a9a015dadaf357",
     "url": "/react-footbal-app/static/css/main.0ea4a77d.chunk.css"
   },
   {
-    "revision": "639fc1d6a5374e183dac",
-    "url": "/react-footbal-app/static/js/2.4ffd5ee4.chunk.js"
+    "revision": "10aa41b8346b8b22e35b",
+    "url": "/react-footbal-app/static/js/2.aae04894.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-footbal-app/static/js/2.4ffd5ee4.chunk.js.LICENSE.txt"
+    "url": "/react-footbal-app/static/js/2.aae04894.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b845f9b25c9650abaab1",
-    "url": "/react-footbal-app/static/js/main.22f4184b.chunk.js"
+    "revision": "2970e2a9a015dadaf357",
+    "url": "/react-footbal-app/static/js/main.4355ce1b.chunk.js"
   },
   {
     "revision": "b4f9fca422a4ac249b2c",
