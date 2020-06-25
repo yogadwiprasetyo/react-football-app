@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c346476268ce06a76382aecfebeb7d4a",
+    "revision": "2e4477791739e38ced2698c6b7d8436b",
     "url": "/react-footbal-app/index.html"
   },
   {
-    "revision": "2970e2a9a015dadaf357",
+    "revision": "bbe0c0112f855e791bb6",
     "url": "/react-footbal-app/static/css/main.0ea4a77d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-footbal-app/static/js/2.aae04894.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2970e2a9a015dadaf357",
-    "url": "/react-footbal-app/static/js/main.4355ce1b.chunk.js"
+    "revision": "bbe0c0112f855e791bb6",
+    "url": "/react-footbal-app/static/js/main.62e39841.chunk.js"
   },
   {
     "revision": "b4f9fca422a4ac249b2c",
