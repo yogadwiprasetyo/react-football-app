@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-footbal-app/static/css/main.0ea4a77d.chunk.css",
-    "main.js": "/react-footbal-app/static/js/main.62e39841.chunk.js",
-    "main.js.map": "/react-footbal-app/static/js/main.62e39841.chunk.js.map",
-    "runtime-main.js": "/react-footbal-app/static/js/runtime-main.ce15642f.js",
-    "runtime-main.js.map": "/react-footbal-app/static/js/runtime-main.ce15642f.js.map",
-    "static/js/2.aae04894.chunk.js": "/react-footbal-app/static/js/2.aae04894.chunk.js",
-    "static/js/2.aae04894.chunk.js.map": "/react-footbal-app/static/js/2.aae04894.chunk.js.map",
-    "index.html": "/react-footbal-app/index.html",
-    "precache-manifest.7d545943e0d735a3029d74990059af58.js": "/react-footbal-app/precache-manifest.7d545943e0d735a3029d74990059af58.js",
-    "service-worker.js": "/react-footbal-app/service-worker.js",
-    "static/css/main.0ea4a77d.chunk.css.map": "/react-footbal-app/static/css/main.0ea4a77d.chunk.css.map",
-    "static/js/2.aae04894.chunk.js.LICENSE.txt": "/react-footbal-app/static/js/2.aae04894.chunk.js.LICENSE.txt"
+    "main.css": "/react-football-app/static/css/main.0ea4a77d.chunk.css",
+    "main.js": "/react-football-app/static/js/main.75545880.chunk.js",
+    "main.js.map": "/react-football-app/static/js/main.75545880.chunk.js.map",
+    "runtime-main.js": "/react-football-app/static/js/runtime-main.27200de6.js",
+    "runtime-main.js.map": "/react-football-app/static/js/runtime-main.27200de6.js.map",
+    "static/js/2.aae04894.chunk.js": "/react-football-app/static/js/2.aae04894.chunk.js",
+    "static/js/2.aae04894.chunk.js.map": "/react-football-app/static/js/2.aae04894.chunk.js.map",
+    "index.html": "/react-football-app/index.html",
+    "precache-manifest.956892b07f3543a32cb5bbcd215c9aa7.js": "/react-football-app/precache-manifest.956892b07f3543a32cb5bbcd215c9aa7.js",
+    "service-worker.js": "/react-football-app/service-worker.js",
+    "static/css/main.0ea4a77d.chunk.css.map": "/react-football-app/static/css/main.0ea4a77d.chunk.css.map",
+    "static/js/2.aae04894.chunk.js.LICENSE.txt": "/react-football-app/static/js/2.aae04894.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce15642f.js",
+    "static/js/runtime-main.27200de6.js",
     "static/js/2.aae04894.chunk.js",
     "static/css/main.0ea4a77d.chunk.css",
-    "static/js/main.62e39841.chunk.js"
+    "static/js/main.75545880.chunk.js"
   ]
 }
