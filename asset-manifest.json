@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-football-app/static/css/main.1a61ea5e.chunk.css",
-    "main.js": "/react-football-app/static/js/main.6c711009.chunk.js",
-    "main.js.map": "/react-football-app/static/js/main.6c711009.chunk.js.map",
+    "main.css": "/react-football-app/static/css/main.e076ee84.chunk.css",
+    "main.js": "/react-football-app/static/js/main.9c1a89b8.chunk.js",
+    "main.js.map": "/react-football-app/static/js/main.9c1a89b8.chunk.js.map",
     "runtime-main.js": "/react-football-app/static/js/runtime-main.27200de6.js",
     "runtime-main.js.map": "/react-football-app/static/js/runtime-main.27200de6.js.map",
-    "static/js/2.e23b8d98.chunk.js": "/react-football-app/static/js/2.e23b8d98.chunk.js",
-    "static/js/2.e23b8d98.chunk.js.map": "/react-football-app/static/js/2.e23b8d98.chunk.js.map",
+    "static/js/2.4ffd5ee4.chunk.js": "/react-football-app/static/js/2.4ffd5ee4.chunk.js",
+    "static/js/2.4ffd5ee4.chunk.js.map": "/react-football-app/static/js/2.4ffd5ee4.chunk.js.map",
     "index.html": "/react-football-app/index.html",
-    "precache-manifest.be26d270af1b061e3492ef3d20c5f786.js": "/react-football-app/precache-manifest.be26d270af1b061e3492ef3d20c5f786.js",
+    "precache-manifest.b9e3f3762138feed4c4c7d7445312c8a.js": "/react-football-app/precache-manifest.b9e3f3762138feed4c4c7d7445312c8a.js",
     "service-worker.js": "/react-football-app/service-worker.js",
-    "static/css/main.1a61ea5e.chunk.css.map": "/react-football-app/static/css/main.1a61ea5e.chunk.css.map",
-    "static/js/2.e23b8d98.chunk.js.LICENSE.txt": "/react-football-app/static/js/2.e23b8d98.chunk.js.LICENSE.txt"
+    "static/css/main.e076ee84.chunk.css.map": "/react-football-app/static/css/main.e076ee84.chunk.css.map",
+    "static/js/2.4ffd5ee4.chunk.js.LICENSE.txt": "/react-football-app/static/js/2.4ffd5ee4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.27200de6.js",
-    "static/js/2.e23b8d98.chunk.js",
-    "static/css/main.1a61ea5e.chunk.css",
-    "static/js/main.6c711009.chunk.js"
+    "static/js/2.4ffd5ee4.chunk.js",
+    "static/css/main.e076ee84.chunk.css",
+    "static/js/main.9c1a89b8.chunk.js"
   ]
 }
